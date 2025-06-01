@@ -1,0 +1,7 @@
+radius_mm,concentration_mol_per_cm3
+0.01,1.31e-07
+...
+0.79,1.00e-08  ← activation threshold
+...
+15.0,~0
+
