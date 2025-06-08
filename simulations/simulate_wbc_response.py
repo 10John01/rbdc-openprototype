@@ -12,8 +12,7 @@ Enhanced with: Degradation kinetics, multi-timepoint analysis, parameter optimiz
 
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
-from scipy.optimize import minimize_scalar
+
 import warnings
 warnings.filterwarnings('ignore')
 
