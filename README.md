@@ -34,10 +34,10 @@ So this was made:
 
 ## 📦 Included
 
-* `simulate_wbc_response.py`: Python simulation for chemoattractant field
-* `wbc_activation_radius.csv`: Raw simulation data
-* `capsule_schematic.png`: Diagram of capsule structure
-* `RBDC_Phase1_Scientific_Brief.pdf`: Fully documented scientific brief
+* [simulate_wbc_response.py](https://github.com/10John01/rbdc-openprototype/blob/main/simulations/simulate_wbc_response.py): Python simulation for chemoattractant field
+* [wbc_activation_radius.csv](https://github.com/10John01/rbdc-openprototype/blob/main/data/wbc_activation_radius.csv): Raw simulation data
+* [capsule_schematic.png](https://github.com/10John01/rbdc-openprototype/blob/main/diagrams/capsule_schematic.png): Diagram of capsule structure
+* [RBDC_Phase1_Scientific_Brief.pdf](https://github.com/10John01/rbdc-openprototype/blob/main/data/RBDC_Phase1_Scientific_Brief.pdf): Fully documented scientific brief
 
 All materials are intended for transparency, adaptation, and acceleration.
 
