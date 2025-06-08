@@ -43,6 +43,20 @@ All materials are intended for transparency, adaptation, and acceleration.
 
 ---
 
+## 🚀 Usage
+
+1. Install the core requirements::
+
+    pip install -r requirements.txt
+
+2. Run the simulation script to reproduce the default analysis::
+
+    python simulations/simulate_wbc_response.py
+
+3. Open `web/index.html` in a modern browser to explore the parameter tool.
+
+---
+
 ## 🔓 License
 
 This work is public domain.

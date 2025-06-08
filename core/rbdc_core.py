@@ -8,10 +8,7 @@ For Charlotte, with love from John T DuCrest Lock & SYMBEYOND.
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
-from scipy.optimize import minimize_scalar
-from typing import Dict, List, Tuple, Optional
-import json
+from typing import Dict
 
 class ChemoattractantField:
     """Models 3D chemoattractant diffusion from RBDC capsule."""
